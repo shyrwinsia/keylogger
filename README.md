@@ -6,9 +6,9 @@ When you double-click the exe file, it will go to the background and write to a 
 
 Add it to Windows startup if you want it to run automatically.
 
-Windows Defender in Windows 10 can detect this. Don't forget to let Window "trust it."
+Windows Defender in Windows 10 can detect this. Don't forget to let Windows "trust it."
 
-To kill it, go to Task Manager.
+To kill it, go to Task Manager. Good luck finding which one. Hehe.
 
 ## Disclaimer
 
